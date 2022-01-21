@@ -8,4 +8,5 @@
 ### Prueba directa en código
 1. Comentar las líneas donde se mandan a llamar los métodos de consola y descomentar los valores directos en las líneas *71* y *72*
 ![ejemplo-directo](https://i.ibb.co/52Qs2sX/Screenshot-select-area-20220120234420.png)
-
+2. Similar al paso 2 de la prueba en consola, ejecutar el comando `php Main.php`
+![ejemplo-directo-imagen](https://i.ibb.co/tXL6Ljd/Screenshot-select-area-20220120234941.png)
